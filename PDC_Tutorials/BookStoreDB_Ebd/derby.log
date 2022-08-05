@@ -1,0 +1,38 @@
+Sat May 07 16:14:46 NZST 2022 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat May 07 16:15:56 NZST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-9cba-12d0-000024afa12c 
+on database directory C:\Users\Callum\OneDrive - Clow Inc\School\Uni\COMP603\PDC_Tutorials\BookStoreDB_Ebd\BookStoreDB_Ebd with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Callum/Downloads/db-derby-10.14.2.0-bin(1)/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_321-b07
+user.dir=C:\Users\Callum\Downloads\db-derby-10.14.2.0-bin(1)\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Callum\OneDrive - Clow Inc\School\Uni\COMP603\PDC_Tutorials\BookStoreDB_Ebd
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 07 16:15:57 NZST 2022:
+Shutting down instance a816c00e-0180-9cba-12d0-000024afa12c on database directory C:\Users\Callum\OneDrive - Clow Inc\School\Uni\COMP603\PDC_Tutorials\BookStoreDB_Ebd\BookStoreDB_Ebd with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat May 07 16:15:57 NZST 2022 Thread[DRDAConnThread_2,5,main] (DATABASE = BookStoreDB_Ebd), (DRDAID = {2}), Database 'BookStoreDB_Ebd' shutdown.
+----------------------------------------------------------------
+Sat May 07 16:16:14 NZST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-0180-9cba-12d0-000024afa12c 
+on database directory C:\Users\Callum\OneDrive - Clow Inc\School\Uni\COMP603\PDC_Tutorials\BookStoreDB_Ebd\BookStoreDB_Ebd with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Callum/Downloads/db-derby-10.14.2.0-bin(1)/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_321-b07
+user.dir=C:\Users\Callum\Downloads\db-derby-10.14.2.0-bin(1)\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Callum\OneDrive - Clow Inc\School\Uni\COMP603\PDC_Tutorials\BookStoreDB_Ebd
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 07 16:18:46 NZST 2022:
+Shutting down instance 6ede40af-0180-9cba-12d0-000024afa12c on database directory C:\Users\Callum\OneDrive - Clow Inc\School\Uni\COMP603\PDC_Tutorials\BookStoreDB_Ebd\BookStoreDB_Ebd with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Sat May 07 16:18:46 NZST 2022 Thread[DRDAConnThread_3,5,main] (DATABASE = BookStoreDB_Ebd), (DRDAID = {4}), Database 'BookStoreDB_Ebd' shutdown.
+----------------------------------------------------------------
+Sat May 07 16:19:27 NZST 2022: Shutting down Derby engine
+----------------------------------------------------------------
