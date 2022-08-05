@@ -1,0 +1,11 @@
+private final char[][] TEMPLATE = { 
+        "┌────────────┐".toCharArray(),
+        "│           ?|".toCharArray(),
+        "│            |".toCharArray(),
+        "│            |".toCharArray(),
+        "│            |".toCharArray(),
+        "│            |".toCharArray(),
+        "│            |".toCharArray(),
+        "│?          ?|".toCharArray(),
+        "└────────────┘".toCharArray()
+    };

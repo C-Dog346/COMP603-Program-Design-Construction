@@ -1,0 +1,9 @@
+kevin 100
+bob -100
+leo 10
+alice 80
+teddy 40
+sam 50
+mark -30
+CDog -200
+greg -100
